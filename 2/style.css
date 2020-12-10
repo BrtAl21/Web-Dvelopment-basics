@@ -1,0 +1,21 @@
+h1{
+  text-align: center;
+  background-color: black;
+  color: crimson;
+  padding: 20px;
+}
+h3{
+  color: crimson;
+}
+b{
+  color: blue;
+}
+footer p{
+  text-align: center;
+  background-color: black;
+  color: aliceblue;
+  padding: 20px;
+}
+span{
+  color: crimson;
+}
